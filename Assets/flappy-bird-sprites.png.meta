@@ -173,7 +173,7 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,6 +181,69 @@ TextureImporter:
       bones: []
       spriteID: f99f6fda4dd7d4274891bc7567821cf2
       internalID: 1770856421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 431
+        width: 98
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5603fa55fc4d42b9b4955a2c84aa004
+      internalID: 2119439194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 365
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf9a8bfe06447c78fcafea5f79699c
+      internalID: -992984582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 454
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdeb215bfa46438d99cd1744d978c44
+      internalID: -1952878936
       vertices: []
       indices: 
       edges: []
@@ -199,6 +262,9 @@ TextureImporter:
       flappy-bird-sprites_0: 1025574903
       flappy-bird-sprites_1: -1910297350
       flappy-bird-sprites_2: 1770856421
+      flappy-bird-sprites_3: 2119439194
+      flappy-bird-sprites_4: -992984582
+      flappy-bird-sprites_5: -1952878936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

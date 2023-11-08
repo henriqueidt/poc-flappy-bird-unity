@@ -11,9 +11,7 @@ public class pipesGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // GameObject newPipes = Instantiate(pipes);
         GameObject newPipes = createPipes();
-        // newPipes.transform.position = transform.position + new Vector3(0, Random.Range(-height, height), 0);
     }
 
     // Update is called once per frame
